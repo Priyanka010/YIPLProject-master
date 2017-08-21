@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+tools:context="com.example.root.yiplproject.ListofContractor">
+
+
+<ListView
+    android:layout_width="wrap_content"
+    android:layout_height="576dp"
+    android:id="@+id/list1"
+    android:padding="10dp"
+    android:layout_marginTop="1dp"
+    android:layout_marginBottom="10dp"
+    android:textAlignment="center"
+    android:divider="#f64c73"
+    android:gravity="center"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:dividerHeight="3dp" />
+
+</FrameLayout>
