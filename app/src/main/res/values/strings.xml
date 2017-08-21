@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">YIPLProject</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Planning</string>
+    <string name="slide_1_desc"><b>Project title:</b> Construction of drain, Asphalt concrete for service road ch.k 11+500 and k 15+600</string>
+    <string name="slide_1_desc1"><b>Constructor name:</b> Sunkoshi Construction Nepal</string>
+    <string name="slide_1_desc2"><b>Budget Source: </b>Government</string>
+    <string name="slide_1_desc3"><b>Estimated Budget:</b> NPR. 59,394,000.00</string>
+
+    <string name="slide_2_title">Tender</string>
+    <string name="slide_2_desc"><b>Project title:</b> Construction of drain, Asphalt concrete for service road ch.k 11+500 and k 15+600</string>
+    <string name="slide_2_desc1"><b>Tender Status: </b>Awarded</string>
+    <string name="slide_2_desc2"><b>Estimated cost:</b> NPR. 59,394,000.00</string>
+    <string name="slide_2_desc3"><b>Procurement Method: </b>Public Procurement Process</string>
+    <string name="slide_2_desc4"><b>Evaluation Criteria: </b>As per bid document</string>
+    <string name="slide_2_desc5"><b>Tender Notice published date: </b>2072/6/11 </string>
+    <string name="slide_2_desc6"><b>Tender period:</b> 30 days from day of notice published</string>
+    <string name="slide_2_desc7"><b>Enquiry Period: </b>1 day (Pre bid meeting)</string>
+    <string name="slide_2_desc8"><b>Eligibility criteria:</b> As set by PPMO</string>
+    <string name="slide_2_desc9"><b>Work order date:</b> 2073/02/11</string>
+    <string name="slide_2_desc10"><b>Intended completion:</b> 15 months</string>
+    <string name="slide_2_desc11"><b>Number of tenders:</b> 12</string>
+    <string name="slide_2_desc12"><b>Procuring Entity Name:</b> KRIP</string>
+    <string name="slide_2_desc13"><b>Procuring entity address:</b> Ekantakuna</string>
+    <string name="slide_2_desc14"><b>Contact for specific tender: </b>Project Manager-(015001801)</string>
+
+    <string name="slide_1_descb"><b>Project title:</b> Construction of overhead pedestrian crossing Bridge, Satdobato Chowk, Ekantakuna Chowk and Balkhu Chowk</string>
+    <string name="slide_1_descb1"><b>Constructor name: </b>Hirachan Construction/Mahadev Khimti Nirman sewa/ Awale Builders J.V.</string>
+    <string name="slide_2_descb5"><b>Tender Notice published date:</b> 2073/02/11 </string>
+    <string name="slide_2_descb9"><b>Work order date: </b>2073/03/29</string>
+    <string name="slide_2_descb10"><b>Intended completion:</b> 30 months</string>
+
+    <string name="slide_3_title">Award</string>
+    <string name="slide_3_desc"><b>Award Status:</b> Awarded</string>
+    <string name="slide_3_desc1"><b>Award date:</b> 2073/02/11</string>
+    <string name="slide_3_desc2"><b>Award Value:</b> 36972588</string>
+    <string name="slide_3_desc3"><b>Award Contract start date:</b> 2073/01/21</string>
+    <string name="slide_3_desc4"><b>Award Contract end date:</b> 2074/05/11</string>
+    <string name="slide_3_desca1"><b>Award date:</b> 2073/03/29</string>
+    <string name="slide_3_desca2"><b>Award Value: </b>93852884.14</string>
+    <string name="slide_3_desca3"><b>Award Contract start date: </b>2073/03/17</string>
+    <string name="slide_3_desca4"><b>Award Contract end date:</b> 2075/09/29</string>
+
+    <string name="slide_4_title">Contract</string>
+    <string name="slide_4_desc"><b>Contract ID:</b> KRIP/3373274/072/73–10 </string>
+    <string name="slide_4_desc1"><b>Contract Status:</b> Running</string>
+    <string name="slide_4_desc2"><b>Physical Progress : </b>30%</string>
+    <string name="slide_4_desca"><b>Contract ID:</b> KRIP/3373274/072/073–11 </string>
+    <string name="slide_4_desca2"><b>Physical Progress :</b> >5%</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <string name="hint_email">Enter emailid</string>
+    <string name="hint_password">Enter password</string>
+    <string name="hint_name">Enter Full Name</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_link_reg">Not Registered?Sign Up</string>
+    <string name="btn_reg">Sign Up</string>
+    <string name="sent_to">To</string>
+    <string name="msg_head">Header</string>
+    <string name="msg_body">Body</string>
+    <string name="send">Send</string>
+    <string name="post">Post in Forum</string>
+    <string name="forum">Forum</string>
+    <string name="voted">Voted</string>
+    <string name="btn_linkToComplain">Complain Here</string>
+    <string name="choose_an_email">Choose an email</string>
+    <string name="subject">Subject</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="email_arrays">
+        <item>priyanca.gyawali1@gmail.com</item>
+        <item>sushmagiri123@gmail.com</item>
+        <item>rupakkc003@gmail.com</item>
+        <item>priyanka.gyawali1@gmail.com</item>
+
+    </string-array>
+
+    <string-array name="projects">
+        <item>Sunkoshi Construction</item>
+        <item>Hiranchan Construction</item>
+        <item>Shanti Nirman Sewa</item>
+        <item>Shuva om Nirman Sewa</item>
+        <item>Shree divya/Uma company</item>
+        <item>Timilsina Construction</item>
+        <item>Melamchi Indrawati Hume Pipe pvt ltd</item>
+        <item>P.R nirman Sewa</item>
+
+    </string-array>
+
+</resources>
